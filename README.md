@@ -1,2 +1,2 @@
 # code-of-music
-everything i'm doing for the code of music course @ nyu itp!
+All the work I've done for Luisa Pereira's Code of Music course @ NYU ITP!
